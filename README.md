@@ -1,0 +1,2 @@
+# Association-between-Income-and-Life-Expectancy-in-the-United-States
+The relationship between income and life expectancy is well established but remains poorly understood. This project will study data gathered in the context of a study the results of which were published in The Association Between Income and Life Expectancy in the United States, 2001-2014., Chetty R, Stepner M, Abraham S, et al., JAMA. 2016; 315(16):1750-1766.
